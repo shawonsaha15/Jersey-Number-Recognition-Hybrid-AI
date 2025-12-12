@@ -1,1 +1,1 @@
-# Jersey-Number-Detection-Hybrid-AI
+# Jersey-Number-Recognition-Hybrid-AI
